@@ -1,0 +1,32 @@
+Problem Statement
+
+as the name desprobes it  anumber can a palendrome and a prime 
+gien a number n find the nth palendrome prime,
+
+
+
+Input
+
+the number n
+
+Output
+
+nth palendriome prime
+
+Constraints
+
+n<100
+ 
+Sample Input
+
+16
+
+Sample Output
+
+757	
+
+Explanation
+
+757 is the 16th palendomre prime
+
+v esasy

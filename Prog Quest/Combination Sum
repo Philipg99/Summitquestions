@@ -1,0 +1,35 @@
+Problem Statement
+
+Given a set of numebr ind the sum off all the combinations of 
+those numbes example give the number 1, 2 and 3 the combnations 
+are 123, 132, 213, 231, 312 and 321 whos sum is 1332
+
+Input
+
+the first line contains the number of numbers, M
+the second ine conatains the numbers sperated  by spaces, L
+
+Output
+
+the sum
+
+Constraints
+
+M < 10
+0 < L < 10 (each number is uniqe)
+ 
+Sample Input
+
+3
+2 3 4
+
+Sample Output
+
+1998
+
+Explanation
+
+234+243+324+342+423+432 = 1998
+
+
+easy

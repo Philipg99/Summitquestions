@@ -1,0 +1,28 @@
+Problem Statement
+
+Two numebr are said to be raltivly prme when the only comma0n factrt thay share is 1
+given a number n find all the numebr less than n which are less than n
+
+Input
+
+a number n
+
+Output
+
+the number of number that are relatibly prime to it 
+
+Constraints
+
+n < 10*7
+ 
+Sample Input
+
+
+Sample Output
+
+
+
+Explanation
+
+
+medium

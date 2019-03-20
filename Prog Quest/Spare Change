@@ -1,0 +1,32 @@
+Problem Statement
+
+the is a rvoltuion afoot , its time for change, and you are the souce of
+this change, given an ammount you need to compute the number
+of ways to make change for it given the avabli denominations
+(0 if impsoible)
+
+Input
+
+the frst line conatins the number of dinomations
+the sendod line conats spalce sperated values of the denomiation
+the tird line conats the 
+
+Output
+
+
+Constraints
+
+
+ 
+Sample Input
+
+
+
+Sample Output
+
+
+
+Explanation
+
+
+medium

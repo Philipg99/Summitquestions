@@ -1,0 +1,32 @@
+Problem Statement
+
+gievn a list of numbers find the lenth of th elonest incrsing sub sequence in it
+
+
+Input
+
+the firt line conatins the length of the list N
+the seonvnd line ocnatin the list L
+
+
+Output
+
+the lenght of thr longest inceing sunstring n
+the scond line conatin the string with values sperate d by spaces
+
+Constraints
+
+N<100
+ 
+Sample Input
+
+
+
+Sample Output
+
+
+
+Explanation
+
+
+hard
