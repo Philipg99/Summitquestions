@@ -12,7 +12,7 @@ the second line contains the second number P, Q
 
 Output
 
-0 if the first number is larger, 1 if the second number is larger 
+0 if the first number is larger or equal, 1 if the second number is larger 
 
 Constraints
 

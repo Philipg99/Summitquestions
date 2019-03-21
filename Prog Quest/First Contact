@@ -6,9 +6,8 @@ a display with a question on it and a keyboard to enter the answer
 
 Input
 
-the first line contains the first value
-the second line contains space-separated value
-the third line contains the separated value
+the first line contains N space-separated values
+the second line contains M space-separated value
 
 
 Output
@@ -17,11 +16,10 @@ a number
 
 Constraints
 
-
+N,M <10
  
 Sample Input
 
-Zekhtsn
 Zeks Zibn
 Fier
 
