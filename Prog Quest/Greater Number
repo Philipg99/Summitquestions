@@ -1,18 +1,18 @@
 Problem Statement
 
-Some numbers are just too bing to compute on normal hardware
-but that soent stop us for asking you to compare them
-given two numerbin the base^exponet form tell us witch is 
+Some numbers are just too big to calculate on normal hardware
+but that doesn't stop us from asking you to compare them
+given two number in the base^exponet form tell us which is 
 larger
 
 Input
 
-the first line contains the  fist number n m
-the second ine conatains the second p q
+the first line contains the  first number N, M
+the second line contains the second number P, Q
 
 Output
 
-0 if the first number is larger , 1 if the seocnd number is larger 
+0 if the first number is larger, 1 if the second number is larger 
 
 Constraints
 

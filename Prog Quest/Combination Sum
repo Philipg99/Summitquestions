@@ -1,13 +1,14 @@
 Problem Statement
 
-Given a set of numebr ind the sum off all the combinations of 
-those numbes example give the number 1, 2 and 3 the combnations 
-are 123, 132, 213, 231, 312 and 321 whos sum is 1332
+Given a set of numbers find the sum of all the combinations of 
+those numbers 
+example: given the numbers 1, 2 and 3 the combinations 
+are 123, 132, 213, 231, 312 and 321 whose sum is 1332
 
 Input
 
 the first line contains the number of numbers, M
-the second ine conatains the numbers sperated  by spaces, L
+the second line contains the numbers separated  by spaces, L
 
 Output
 

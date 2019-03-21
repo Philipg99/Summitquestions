@@ -1,24 +1,22 @@
 Problem Statement
 
-a misterous spacecraft crash landed in from of you there are 
-a set of locks in it , it appers and the key to opening these
-lock is the asnwer the questions on it
+a mysterious spacecraft crash-landed in front of you there is
+a display with a question on it and a keyboard to enter the answer
 
 
 Input
 
-the first lien conats the first value ,N
-the scond line cnatins space sperted vaue
-the thirs line cnatins the sperated value
+the first line contains the first value
+the second line contains space-separated value
+the third line contains the separated value
 
 
 Output
 
-a number an s an output
+a number 
 
 Constraints
 
-Eyns < N < 	Nayn Nayn
 
  
 Sample Input

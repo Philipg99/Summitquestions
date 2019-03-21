@@ -1,18 +1,18 @@
 Problem Statement
 
-gievn a list of numbers find the lenth of th elonest incrsing sub sequence in it
+given a list of numbers find the length of the longest increasing subsequence in it
 
 
 Input
 
-the firt line conatins the length of the list N
-the seonvnd line ocnatin the list L
+the first line contains the length of the list N
+the second line ocnatin the list L
 
 
 Output
 
-the lenght of thr longest inceing sunstring n
-the scond line conatin the string with values sperate d by spaces
+the length of the longest increasing substring n
+the second line conatin the string with values sperate d by spaces
 
 Constraints
 
@@ -23,7 +23,6 @@ Sample Input
 
 10
 25 65 57 76 13 16 21 15 43 30
-1  2  2  3  1  2  3  2  4   4
 
 Sample Output
 
@@ -31,7 +30,7 @@ Sample Output
 
 Explanation
 
-there are two sub strings with length 4
+there are two substrings with length 4
 13 16 21 43
 13 16 21 30
 

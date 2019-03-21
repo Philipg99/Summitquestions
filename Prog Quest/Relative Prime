@@ -1,7 +1,7 @@
 Problem Statement
 
-Two numebr are said to be raltivly prme when the only comma0n factrt thay share is 1
-given a number n find all the numebr less than n which are less than n
+Two numbers are said to be relatively prime when the only common factor they share is 1
+given a number n find all the number less than n which are relatively prime n
 
 Input
 
@@ -9,7 +9,7 @@ a number n
 
 Output
 
-the number of number that are relatibly prime to it 
+the number of numbers that are relatibly prime to it 
 
 Constraints
 

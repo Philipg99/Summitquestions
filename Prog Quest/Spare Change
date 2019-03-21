@@ -1,15 +1,15 @@
 Problem Statement
 
-the is a rvoltuion afoot , its time for change, and you are the souce of
-this change, given an ammount you need to compute the number
-of ways to make change for it given the avabli denominations
-(0 if impsoible)
+the is a revolution afoot, its time for a change, and you are the source of
+this change, given an amount you need to compute the number
+of ways to make change for it given the available denominations
+(0 if impossible)
 
 Input
 
-the frst line conatins the number of dinomations
-the sendod line conats spalce sperated values of the denomiation
-the tird line conats the amoinrt
+the first line contains the number of denominations
+the second line conats space-separated values of the denomination
+the third line contains the amount
 
 Output
 
@@ -36,4 +36,4 @@ Sample Output
 Explanation
 
 
-medium
+medium 

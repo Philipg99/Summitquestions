@@ -1,16 +1,16 @@
 Problem Statement
 
-a number might conataain squaes in its factors that conatain find all the
-non squar efatos of a number gven that the liget prm fator is <1000
+the factors of a number might contain squares find all the
+nonsquare factors of a number given that the largest prime factor is <1000
 (1 is not included)
 
 Input
 
-the numebr n
+the number N
 
 Output
 
-the number on no square factors
+the number of nonsquare factors
 
 Constraints
 

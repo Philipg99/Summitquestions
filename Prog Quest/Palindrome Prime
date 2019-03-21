@@ -1,9 +1,7 @@
 Problem Statement
 
-as the name desprobes it  anumber can a palendrome and a prime 
-gien a number n find the nth palendrome prime,
-
-
+as the name describes it  a number can a palindrome and a prime 
+given a number n find the nth palindromic prime,
 
 Input
 
@@ -11,7 +9,7 @@ the number n
 
 Output
 
-nth palendriome prime
+nth palindrome prime
 
 Constraints
 
@@ -23,10 +21,10 @@ Sample Input
 
 Sample Output
 
-757	
+757    
 
 Explanation
 
-757 is the 16th palendomre prime
+757 is the 16th palindrome prime
 
-v esasy
+v easy
