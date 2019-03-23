@@ -1,22 +1,23 @@
 Problem Statement
 
-You are a jewel thief who likes to keep a low profile, you don't want 
-any media attention so you only steal the second most valuable thing you 
-can find, given an array of value find the second d largest value in it or
-give NULL as the output is it doesn't exist
+You are a jewel thief who likes to keep a low profile, you don't want to draw attention 
+to yourself so you only steal the second most valuable thing you can find, 
+given an array of value find the second largest value in it or give NULL as the 
+output if all the values are equal
 
 Input
 
-the fit line contains the number of values
-the second line contains the values separated by spaces
+The first line contains the number of values, N
+The second line contains the values separated by spaces, M
 
 Output
 
-the second largest value or NULL if none exists
+The second largest value or NULL if none exists
 
 Constraints
 
--10^7 < N <10^7 
+N < 15
+-10^7 < M <10^7 
  
 Sample Input
 

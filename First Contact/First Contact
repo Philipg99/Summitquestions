@@ -1,27 +1,25 @@
 Problem Statement
 
-a mysterious spacecraft crash-landed in front of you there is
+A mysterious spacecraft crash-landed in front of you there is
 a display with a question on it and a keyboard to enter the answer
-
 
 Input
 
-the first line contains N space-separated values
-the second line contains M space-separated value
-
+The first line contains N space-separated values
+The second line contains M space-separated value
 
 Output
 
-a number 
+A number 
 
 Constraints
 
-N,M <10
+N,M < 5
  
 Sample Input
 
-Zeks Zibn
-Fier
+zeks zibn
+fier
 
 Sample Output
 

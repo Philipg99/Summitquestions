@@ -1,20 +1,20 @@
 Problem Statement
 
-the factors of a number might contain squares find all the
-nonsquare factors of a number given that the largest prime factor is <1000
-(1 is not included)
+The factors of a number might contain squares find all the
+non square factors of a number given that the largest prime 
+factor is less than 1000, 1 is included as a square factor
 
 Input
 
-the number N
+the number, N
 
 Output
 
-the number of nonsquare factors
+the number of non square factors
 
 Constraints
 
-n<10*7
+N < 10*19
  
 Sample Input
 
@@ -26,8 +26,8 @@ Sample Output
 
 Explanation
 
-the facotrs of 72 are 
+the factors of 72 are 
 1,2,3,4,6,8,9,12,18,24,36,72
-the non square factorsa are 2,3 and 6
+the non square factors are 2,3 and 6
 
 medium

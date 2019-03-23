@@ -1,6 +1,6 @@
-trans={'nul':0,'Eyns':1,'Tsvey':2,'Dray':3,'Fier':4,'Finef':5,'Zeks':6,'Zibn':7,
-		'Achet':8,'Nayn':9,'Tsen':10,'Elf':11,'Tsvelf':12,'Draytsn':13,'Fertsn':14,
-		'Fuftsn':15,'Zekhtsn':16}
+trans={'nul':0,'eyns':1,'tsvey':2,'dray':3,'fier':4,'finef':5,'zeks':6,'zibn':7,
+		'achet':8,'nayn':9,'tsen':10,'elf':11,'tsvelf':12,'draytsn':13,'fertsn':14,
+		'fuftsn':15}
 
 n1 = input().split()
 n2 = input().split()

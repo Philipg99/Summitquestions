@@ -1,7 +1,6 @@
 Problem Statement
 
-Given a set of numbers find the sum of all the combinations of 
-those numbers 
+Given a set of numbers find the sum of all the combinations of those numbers 
 example: given the numbers 1, 2 and 3 the combinations 
 are 123, 132, 213, 231, 312 and 321 whose sum is 1332
 
