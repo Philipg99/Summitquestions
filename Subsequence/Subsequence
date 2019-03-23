@@ -1,0 +1,36 @@
+Problem Statement
+
+given a list of numbers find the length of the longest increasing subsequence in it
+
+
+Input
+
+the first line contains the length of the list N
+the second line ocnatin the list L
+
+
+Output
+
+the length of the longest increasing substring n
+the second line conatin the string with values sperate d by spaces
+
+Constraints
+
+N<1000
+M<10*7
+ 
+Sample Input
+
+10
+25 65 57 76 13 16 21 15 30 30
+
+Sample Output
+
+5
+
+Explanation
+
+substrings with length 5
+13 16 21 30 30
+
+hard
