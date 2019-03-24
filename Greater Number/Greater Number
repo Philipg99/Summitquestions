@@ -1,13 +1,13 @@
 Problem Statement
 
-Some numbers are just too big to calculate,but that doesn't stop us 
-from asking you to compare them given two number in the form base^exponet 
-tell us which is larger
+Some numbers are just too big to calculate(like 999999^999999),but that 
+doesn't stop us from asking you to compare them, given two number in the 
+form base^exponet tell us which is larger
 
 Input
 
-The first line contains the  first number N, M
-The second line contains the second number P, Q
+The first line contains the  first number, N M
+The second line contains the next number, P Q
 
 Output
 

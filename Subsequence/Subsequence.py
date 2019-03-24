@@ -1,21 +1,27 @@
 
-l = int(input())
+size = int(input())
 
 seq = list(map(int,input().split()))
 
 lseq=[]
 
-for i in range(l):
-	lseq+=[1]
+lseq+=[[seq[0]]]
 
-for i in range(1,l):
-	ml=0
-	cl=0
-	for j in range(i):
-		if seq[j]<=seq[i]:
-			cl=lseq[j]
-			if cl>ml:
-				ml=cl
-	lseq[i]=ml+1
 
-print(max(lseq))
+for i in range(1,len(seq)):
+
+	if seq[i]<lseq[0][0]:
+		lseq[0][0]=seq[i]
+
+	for j in range(len(lseq)):
+
+		if seq[i]>lseq[j][-1]:
+			temp=lseq[j]+[seq[i]]
+			if len(temp)>len(lseq):
+				lseq+=[temp]
+			else:
+				if temp[-1]<lseq[j+1][-1]:
+					lseq[j+1]=temp
+
+
+print(len(lseq[-1]))
