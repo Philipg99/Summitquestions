@@ -34,6 +34,6 @@ t2=t()
 print(t2-t1)
 
 for i in seq:
-	print(i,end=' ')
+	print(i)
 
 print('\n')

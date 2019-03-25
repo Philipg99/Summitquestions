@@ -1,7 +1,8 @@
 
 size = int(input())
-
-seq = list(map(int,input().split()))
+seq=[]
+for i in range(size):
+	seq += [int(input())]
 
 lseq=[]
 
