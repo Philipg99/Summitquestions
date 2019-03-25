@@ -1,8 +1,8 @@
 Problem Statement
 
-Some numbers are just too big to calculate(like 999999^999999),but that 
-doesn't stop us from asking you to compare them, given two number in the 
-form base^exponet tell us which is larger
+Some numbers are just too big to calculate(like 999999^999999), but that 
+doesn't stop Deon's teacher from asking him to compare them, unable to
+do this, he is asking for your help.
 
 Input
 

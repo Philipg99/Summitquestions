@@ -12,5 +12,8 @@ for i in num:
 
 	if sl=='NULL' and fl!=i:
 			sl = i
+	if sl!='NULL':
+		if i>sl and fl!=i:
+			sl=i
 
 print(sl)

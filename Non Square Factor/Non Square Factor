@@ -1,16 +1,17 @@
 Problem Statement
 
-The factors of a number might contain squares find all the
-non square factors of a number given that the largest prime 
-factor is less than 1000, 1 is included as a square factor
+Shan hates square numbers. He even hates numbers with squares as
+factors, with that in mind he has a challenge for you to test your
+friendship. Given a number, find all the factors of that number 
+which do not contain a square as its factor. 
 
 Input
 
-the number, N
+The number, N
 
 Output
 
-the number of non square factors
+The number of nonsquare factors
 
 Constraints
 
@@ -29,4 +30,3 @@ Explanation
 the factors of 72 are 
 1,2,3,4,6,8,9,12,18,24,36,72
 the non square factors are 2,3 and 6
-

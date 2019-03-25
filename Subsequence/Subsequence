@@ -1,18 +1,19 @@
 Problem Statement
 
-Given a list of numbers find the length of the longest strictly 
-increasing subsequence in it
+Vignesh is the CEO of Zentech. He only likes to receive good news.
+As his assistant given an earnings report, you should give the 
+length of the longest strictly increasing sequence in it. 
 
 
 Input
 
-the first line contains the length of the list N
-the second line ocnatin the list L
+The first line contains the length of the list N
+The second line contains the list L
 
 
 Output
 
-The length of the longest increasing substring n
+The length of the longest strictly increasing sequence
 
 Constraints
 
@@ -30,6 +31,6 @@ Sample Output
 
 Explanation
 
-substrings with length 4
+the sequence with length 4 is
 13 16 21 30
 
