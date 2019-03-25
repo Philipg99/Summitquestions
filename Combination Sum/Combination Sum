@@ -1,13 +1,13 @@
 Problem Statement
 
-Given a set of numbers find the sum of all the combinations of those numbers 
-example: given the numbers 1, 2 and 3 the combinations 
-are 123, 132, 213, 231, 312 and 321 whose sum is 1332
+Georgy is a very lazy person. He doesn't want to do his assignment.
+He has an assignment to find the sum of all combination of a set of numbers.
+He needs your help, can you do this for him?
 
 Input
 
-the first line contains the number of numbers, M
-the second line contains the numbers separated  by spaces, L
+The first line contains the number of numbers, M
+The second line contains M numbers separated  by spaces, L
 
 Output
 
@@ -16,7 +16,7 @@ the sum
 Constraints
 
 M < 10
-0 < L < 10 (each number is uniqe)
+0 < L < 10 (each number is unique)
  
 Sample Input
 
